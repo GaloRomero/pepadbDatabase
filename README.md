@@ -8,7 +8,7 @@ The implementation of these procedures, within a rigorous policy of data curatio
 
 It is a free and accessible web-based tool that provides users with Late Prehistoric funded research data of PEPAdb (Prehistoric Europe’s Personal Adornment database) project.
 
-![Alt text](https://pepadb.us.es/documentation/pepadbdatabase.png)
+![Alt text](https://pepadb.us.es/documentation/pepadbdatabase1.png)
 
 It can be accessed through the following URL: https://pepadb.us.es/database.html 
 
