@@ -1,17 +1,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400&display=swap');
 @import url('https://fonts.cdnfonts.com/css/nasalization-2');
 
-.container-fluid {
-	padding: 10px;
-}
-
 * {
   font-family: "Barlow", sans-serif;
   font-size: 15px;
 }
 
-#nav-items:hover{
-color: #c5c5c5;
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
 }
 
+#nav-items:hover{
+  color: #c5c5c5;
+  }
 
+.container-fluid {
+	flex: 1;
+  padding-bottom: 50px; /* Adjust this value to match the height of your footer */
+}
+
+footer {
+  
+  bottom: 0;
+  width: 100%;
+}
