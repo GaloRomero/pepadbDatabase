@@ -44,7 +44,7 @@ It also allows users to perform advanced searches by specifying several variable
 
 - Project leader: Carlos P. Odriozola Lloret (codriozola@us.es)
 
-- Data curator: Galo Romero García (galorom@us.es)
+- Data curator: Galo Romero García (galoromerogarcia@gmail.com)
 
 # Legal and Licensing Information
 
