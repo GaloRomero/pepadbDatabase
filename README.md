@@ -16,10 +16,6 @@ The PEPAdb project focuses on the elements of personal adornment in Late prehist
 
 The raw and processed data are available both on the official PEPAdb website (https://pepadb.us.es/#opendata) and in a Zenodo (https://zenodo.org/records/10545573).
 
-# Pipeline 
-
-The flow chart illustrates this entire methodological process.
-
 # Graphical User Interface (GUI) and user guide
 
 This GUI was created using Bootstrap 5 (https://getbootstrap.com/) framework and the Bootstrap Table extension (https://bootstrap-table.com/).
