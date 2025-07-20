@@ -20,7 +20,7 @@ The raw and processed data are available both on the official PEPAdb website (ht
 
 The flow chart illustrates this entire methodological process.
 
-![Image](https://drive.google.com/uc?export=view&id=1id1ePEyvIn4cVUSNKGLalRnCNCJdhWAz)
+![My Image](https://drive.google.com/file/d/1id1ePEyvIn4cVUSNKGLalRnCNCJdhWAz/view?usp=drive_link)
 
 # Graphical User Interface (GUI) and user guide
 
